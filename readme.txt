@@ -8,4 +8,4 @@ Szabályok (szokásos snake):
 -a "fejünk" nem ütközhet a kígyó "testével"
 
 GitHub:
-https://github.com/GergelyBereczki/snakegame
+https://github.com/GergelyBereczki01/snakegame
